@@ -34,7 +34,7 @@ Distributed Systems • Consensus Protocols (PBFT, Multi-Paxos) • Fault Tolera
 🔗 Repo: https://github.com/GSR2401/WebWeaveAI
 
 ### 🔐 Linear PBFT Consensus — Distributed Banking Application
-`Python · PBFT Protocol · gRPC · Cryptography · TSS Signatures`
+`Go · PBFT Protocol · gRPC · Cryptography · TSS Signatures`
 - Engineered a 7-node fault-tolerant banking system on the PBFT consensus protocol, sustaining sub-80ms latency across 500+ simultaneous transactions.
 - Designed the Linear-PBFT protocol with cryptographic TSS signatures, securely validating transactions for 3,000+ clients with linear complexity and 99.9% data consistency.
 
